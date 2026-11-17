@@ -21,8 +21,8 @@ Torço para o Barcelona 😎.
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />
 
- - 📫 Como falar comigo: [abhishekmaira1999@gmail.com](mailto:abhishekmaira1999@gmail.com);
- - 🔗 Meu site: [https://www.abhishekmaira.com/](https://www.abhishekmaira.com/)
+ - 📫 Como falar comigo: [fernando2021up@gmail.com](mailto:abhishekmaira1999@gmail.com);
+
  
  <br>
 
