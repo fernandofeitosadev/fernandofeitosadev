@@ -10,8 +10,8 @@
 
 <br>
 
-Olá, eu sou o [Fernando F.](https://www.abhishekmaira.com/), desenvolvedor web e de aplicativos 👨🏻‍💻 da Índia. Sou entusiasta da resolução criativa de problemas e um cara de produto, com um amor cada vez maior por produtos incríveis. Tenho orgulho de dizer que **consigo centralizar um elemento com CSS com sucesso.** Além de hackear coisas, jogo xadrez ♘ e FIFA ⚽.
-Torço para o Manchester United 👿 e para o Barcelona 😎.
+Olá, eu sou o [Fernando F.](https://www.abhishekmaira.com/), desenvolvedor web e de aplicativos 👨🏻‍💻 do Brasil. Sou entusiasta da resolução criativa de problemas e um cara de produto, com um amor cada vez maior por produtos incríveis. Tenho orgulho de dizer que **consigo centralizar um elemento com CSS com sucesso.** Além de hackear coisas, jogo xadrez ♘ e FIFA ⚽.
+Torço para o Barcelona 😎.
 
 <br>
 
