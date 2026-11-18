@@ -91,15 +91,9 @@ Torço para o Barcelona 😎.
 
 <hr>
 
-<details>
-<summary>📈 Minhas Estatísticas do GitHub</summary>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AbhishekMaira10&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
-
-</details>
 
 
-## 📊 GitHub Stats
+## 📊 Minhas Estatísticas do GitHub
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=mubasherjam&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats"/>
