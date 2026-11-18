@@ -84,7 +84,7 @@ Torço para o Barcelona 😎.
 </a>
 
 <a href="https://github.com/fernandfeitosa/vapex-infrastructure.git" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fernandfeitosa&repo=vapex-ui&theme=dracula" />
+  <img align="center margin:50px;" src="https://github-readme-stats.vercel.app/api/pin/?username=fernandfeitosa&repo=vapex-ui&theme=dracula" />
 </a>
 
 <div align="center">
